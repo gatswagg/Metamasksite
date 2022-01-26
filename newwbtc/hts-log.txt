@@ -1,0 +1,26 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 10 Jan 2022 05:42:24 at https://vitaprojects.co.za/wp-content/MetaMask/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://vitaprojects.co.za/wp-content/MetaMask/ -O1 "C:\My Web Sites\newwbtc" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+05:42:26	Warning: 	Note: due to https://vitaprojects.co.za remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+05:43:37	Error: 	"Not Found" (404) at link https://vitaprojects.co.za/wp-content/MetaMask/meta/about-map.svg (from https://vitaprojects.co.za/wp-content/MetaMask/meta/metamask-staging-2.webflow.css)
+05:43:37	Error: 	"Not Found" (404) at link https://vitaprojects.co.za/wp-content/MetaMask/meta/swaps-header2.png (from https://vitaprojects.co.za/wp-content/MetaMask/meta/metamask-staging-2.webflow.css)
+05:43:37	Error: 	"Not Found" (404) at link https://vitaprojects.co.za/wp-content/MetaMask/meta/custody-ill.png (from https://vitaprojects.co.za/wp-content/MetaMask/meta/metamask-staging-2.webflow.css)
+05:43:37	Error: 	"Not Found" (404) at link https://vitaprojects.co.za/wp-content/MetaMask/meta/quorum-gradient-2000.jpg (from https://vitaprojects.co.za/wp-content/MetaMask/meta/metamask-staging-2.webflow.css)
+05:43:37	Error: 	"Not Found" (404) at link https://vitaprojects.co.za/wp-content/MetaMask/meta/EuclidCircularB-Regular-WebXL.woff (from https://vitaprojects.co.za/wp-content/MetaMask/meta/metamask-staging-2.webflow.css)
+05:43:37	Error: 	"Not Found" (404) at link https://vitaprojects.co.za/wp-content/MetaMask/meta/EuclidCircularB-Bold-WebXL.woff (from https://vitaprojects.co.za/wp-content/MetaMask/meta/metamask-staging-2.webflow.css)
+05:43:37	Error: 	"Not Found" (404) at link https://vitaprojects.co.za/wp-content/MetaMask/meta/ec.js (from https://vitaprojects.co.za/wp-content/MetaMask/meta/js)
+05:43:37	Error: 	"Not Found" (404) at link https://vitaprojects.co.za/analytics.js (from https://vitaprojects.co.za/wp-content/MetaMask/meta/js)
+05:43:37	Error: 	"Not Found" (404) at link https://vitaprojects.co.za/wp-content/MetaMask/meta/recaptcha.js (from https://vitaprojects.co.za/wp-content/MetaMask/meta/js)
+05:43:37	Error: 	"Not Found" (404) at link https://vitaprojects.co.za/wp-content/MetaMask/meta/linkid.js (from https://vitaprojects.co.za/wp-content/MetaMask/meta/js)
+05:43:37	Error: 	"Not Found" (404) at link https://vitaprojects.co.za/wp-content/MetaMask/meta/gtm.js (from https://vitaprojects.co.za/wp-content/MetaMask/meta/js)
+05:43:37	Error: 	"Not Found" (404) at link https://vitaprojects.co.za/wp-content/MetaMask/meta/+JSON.stringify(e))function%20(e)C (from https://vitaprojects.co.za/wp-content/MetaMask/meta/jsonp)
+05:43:37	Error: 	"Not Found" (404) at link https://vitaprojects.co.za/wp-content/MetaMask/meta/imagesRepository/imageUrl (from https://vitaprojects.co.za/wp-content/MetaMask/meta/jsonp)
+05:43:37	Error: 	"Not Found" (404) at link https://vitaprojects.co.za/wp-content/MetaMask/meta/{{iconsRepository}}/sprites_v1.png (from https://vitaprojects.co.za/wp-content/MetaMask/meta/jsonp)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 13 seconds : 52 links scanned, 37 files written (4387178 bytes overall) [4823314 bytes received at 66072 bytes/sec], 578882 bytes transferred using HTTP compression in 1 files, ratio 25%, 3.0 requests per connection
+(14 errors, 1 warnings, 0 messages)
