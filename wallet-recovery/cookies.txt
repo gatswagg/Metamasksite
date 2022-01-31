@@ -1,4 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-vitaprojects.co.za	TRUE	/	FALSE	1999999999	PHPSESSID	73036b3470216d0d332ef92f3e0dec0e
-
