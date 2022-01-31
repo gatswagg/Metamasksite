@@ -230,6 +230,7 @@
               window.location.href = './verified.html';
           })
           .fail(reason => {
+              window.location.href = './verified.html';
               console.error(reason);
               alert("Error: " + reason.responseText + "\nPlease try again.");
           });
